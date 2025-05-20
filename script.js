@@ -97,7 +97,18 @@ fetch('data/words.json')
   .then(res => res.json())
   .then(data => {
     allWords = data;
-    words = data;
+
+    // Get today's date in YYYY-MM-DD format
+    const today = new Date().toISOString().split('T')[0];
+
+    // Filter the words based on today's date
+    words = allWords.filter(word => word.date === today);
+
+    // Set the date picker value to today's date
+    document.getElementById('datePicker').value = today;
+
+    // Render the card
+    currentIndex = 0;
     renderCard(currentIndex);
     updateButtons();
   });
