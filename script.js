@@ -62,10 +62,19 @@ document.getElementById('prevBtn').addEventListener('click', () => {
 });
 
 document.getElementById('showAll').addEventListener('click', () => {
+  // 1. Reset the date input
+  document.getElementById('datePicker').value = '';
+
+  // 2. Reset the filtered list to show all words
+  words = [...allWords];
   currentIndex = 0;
+
+  // 3. Re-render the first card and update navigation buttons
   renderCard(currentIndex);
   updateButtons();
 });
+
+
 
 document.getElementById('randomize').addEventListener('click', () => {
   words = [...words].sort(() => Math.random() - 0.5);
@@ -88,7 +97,19 @@ fetch('data/words.json')
   .then(res => res.json())
   .then(data => {
     allWords = data;
-    words = data;
+
+    // Get today's date in YYYY-MM-DD format
+    const today = new Date().toISOString().split('T')[0];
+
+    // Filter the words based on today's date
+    words = allWords.filter(word => word.date === today);
+
+    // Set the date picker value to today's date
+    document.getElementById('datePicker').value = today;
+
+    // Render the card
+    currentIndex = 0;
     renderCard(currentIndex);
     updateButtons();
   });
+
