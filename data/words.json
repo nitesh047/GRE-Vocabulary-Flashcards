@@ -1,0 +1,481 @@
+[
+  {
+    "id": "abound",
+    "date": "2025-05-20",
+    "word": "abound",
+    "meaning": "exist in large numbers or amounts",
+    "synonyms": [
+      "overflow",
+      "teem",
+      "swarm"
+    ],
+    "antonyms": [
+      "lack",
+      "sparse",
+      "dwindle"
+    ]
+  },
+  {
+    "id": "amorphous",
+    "date": "2025-05-20",
+    "word": "amorphous",
+    "meaning": "without a clearly defined shape or form",
+    "synonyms": [
+      "shapeless",
+      "formless",
+      "vague"
+    ],
+    "antonyms": [
+      "defined",
+      "shaped",
+      "structured"
+    ]
+  },
+  {
+    "id": "austere",
+    "date": "2025-05-20",
+    "word": "austere",
+    "meaning": "strict in manner; having no comforts or luxuries",
+    "synonyms": [
+      "stern",
+      "harsh",
+      "spartan"
+    ],
+    "antonyms": [
+      "luxurious",
+      "lenient",
+      "indulgent"
+    ]
+  },
+  {
+    "id": "belie",
+    "date": "2025-05-20",
+    "word": "belie",
+    "meaning": "fail to give true impression of something; contradict; fail to justify",
+    "synonyms": [
+      "contradict",
+      "misrepresent",
+      "disguise"
+    ],
+    "antonyms": [
+      "reveal",
+      "clarify",
+      "support"
+    ]
+  },
+  {
+    "id": "capricious",
+    "date": "2025-05-20",
+    "word": "capricious",
+    "meaning": "sudden change of mood, unpredictable, fickle",
+    "synonyms": [
+      "whimsical",
+      "volatile",
+      "unpredictable"
+    ],
+    "antonyms": [
+      "consistent",
+      "stable",
+      "steady"
+    ]
+  },
+  {
+    "id": "cerebral",
+    "date": "2025-05-20",
+    "word": "cerebral",
+    "meaning": "of the cerebrum of the brain, intellectual rather than physical",
+    "synonyms": [
+      "intellectual",
+      "rational",
+      "analytical"
+    ],
+    "antonyms": [
+      "emotional",
+      "instinctive",
+      "physical"
+    ]
+  },
+  {
+    "id": "congenial",
+    "date": "2025-05-20",
+    "word": "congenial",
+    "meaning": "pleasant or agreeable because suited to one's taste",
+    "synonyms": [
+      "agreeable",
+      "friendly",
+      "compatible"
+    ],
+    "antonyms": [
+      "disagreeable",
+      "unpleasant",
+      "incompatible"
+    ]
+  },
+  {
+    "id": "conspicuous",
+    "date": "2025-05-20",
+    "word": "conspicuous",
+    "meaning": "clearly visible, attracting notice or attention",
+    "synonyms": [
+      "obvious",
+      "noticeable",
+      "evident"
+    ],
+    "antonyms": [
+      "hidden",
+      "inconspicuous",
+      "unnoticeable"
+    ]
+  },
+  {
+    "id": "cursory",
+    "date": "2025-05-20",
+    "word": "cursory",
+    "meaning": "hasty and therefore not thorough or detailed",
+    "synonyms": [
+      "superficial",
+      "perfunctory",
+      "brief"
+    ],
+    "antonyms": [
+      "thorough",
+      "detailed",
+      "careful"
+    ]
+  },
+  {
+    "id": "daunting",
+    "date": "2025-05-20",
+    "word": "daunting",
+    "meaning": "difficult to deal with, discourage through fear",
+    "synonyms": [
+      "intimidating",
+      "alarming",
+      "discouraging"
+    ],
+    "antonyms": [
+      "encouraging",
+      "comforting",
+      "reassuring"
+    ]
+  },
+  {
+    "id": "deify",
+    "date": "2025-05-20",
+    "word": "deify",
+    "meaning": "worship or regard as a god",
+    "synonyms": [
+      "idolize",
+      "exalt",
+      "revere"
+    ],
+    "antonyms": [
+      "despise",
+      "disrespect",
+      "degrade"
+    ]
+  },
+  {
+    "id": "didactic",
+    "date": "2025-05-20",
+    "word": "didactic",
+    "meaning": "instructive, particularly so as to appear patronizing",
+    "synonyms": [
+      "educational",
+      "instructive",
+      "informative"
+    ],
+    "antonyms": [
+      "uninformative",
+      "misleading",
+      "obscure"
+    ]
+  },
+  {
+    "id": "disseminate",
+    "date": "2025-05-20",
+    "word": "disseminate",
+    "meaning": "spread widely",
+    "synonyms": [
+      "spread",
+      "distribute",
+      "circulate"
+    ],
+    "antonyms": [
+      "gather",
+      "suppress",
+      "contain"
+    ]
+  },
+  {
+    "id": "feasible",
+    "date": "2025-05-20",
+    "word": "feasible",
+    "meaning": "possible to do easily or conveniently",
+    "synonyms": [
+      "possible",
+      "achievable",
+      "viable"
+    ],
+    "antonyms": [
+      "impossible",
+      "unrealistic",
+      "impractical"
+    ]
+  },
+  {
+    "id": "flout",
+    "date": "2025-05-20",
+    "word": "flout",
+    "meaning": "openly disregard, mock, scoff",
+    "synonyms": [
+      "defy",
+      "mock",
+      "scorn"
+    ],
+    "antonyms": [
+      "respect",
+      "observe",
+      "honor"
+    ]
+  },
+  {
+    "id": "homogeneous",
+    "date": "2025-05-20",
+    "word": "homogeneous",
+    "meaning": "of the same kind",
+    "synonyms": [
+      "uniform",
+      "similar",
+      "consistent"
+    ],
+    "antonyms": [
+      "heterogeneous",
+      "diverse",
+      "varied"
+    ]
+  },
+  {
+    "id": "humdrum",
+    "date": "2025-05-20",
+    "word": "humdrum",
+    "meaning": "lacking excitement or variety; boringly monotonous",
+    "synonyms": [
+      "dull",
+      "boring",
+      "monotonous"
+    ],
+    "antonyms": [
+      "exciting",
+      "interesting",
+      "thrilling"
+    ]
+  },
+  {
+    "id": "insipid",
+    "date": "2025-05-20",
+    "word": "insipid",
+    "meaning": "tasteless, lacking interest",
+    "synonyms": [
+      "bland",
+      "dull",
+      "boring"
+    ],
+    "antonyms": [
+      "flavorful",
+      "interesting",
+      "exciting"
+    ]
+  },
+  {
+    "id": "loquacious",
+    "date": "2025-05-20",
+    "word": "loquacious",
+    "meaning": "talkative",
+    "synonyms": [
+      "talkative",
+      "garrulous",
+      "chatty"
+    ],
+    "antonyms": [
+      "taciturn",
+      "reticent",
+      "quiet"
+    ]
+  },
+  {
+    "id": "misanthropic",
+    "date": "2025-05-20",
+    "word": "misanthropic",
+    "meaning": "having or showing dislike of other people",
+    "synonyms": [
+      "antisocial",
+      "cynical",
+      "reclusive"
+    ],
+    "antonyms": [
+      "sociable",
+      "friendly",
+      "philanthropic"
+    ]
+  },
+  {
+    "id": "misnomer",
+    "date": "2025-05-20",
+    "word": "misnomer",
+    "meaning": "a wrong or inaccurate name or designation",
+    "synonyms": [
+      "inaccuracy",
+      "mislabeling",
+      "wrong name"
+    ],
+    "antonyms": [
+      "accurate term",
+      "correct name"
+    ]
+  },
+  {
+    "id": "negligent",
+    "date": "2025-05-20",
+    "word": "negligent",
+    "meaning": "failing to take proper care over something",
+    "synonyms": [
+      "careless",
+      "irresponsible",
+      "remiss"
+    ],
+    "antonyms": [
+      "careful",
+      "attentive",
+      "conscientious"
+    ]
+  },
+  {
+    "id": "obsequious",
+    "date": "2025-05-20",
+    "word": "obsequious",
+    "meaning": "obedient to an excessive or servile degree",
+    "synonyms": [
+      "servile",
+      "submissive",
+      "fawning"
+    ],
+    "antonyms": [
+      "assertive",
+      "defiant",
+      "independent"
+    ]
+  },
+  {
+    "id": "placate",
+    "date": "2025-05-20",
+    "word": "placate",
+    "meaning": "make less angry",
+    "synonyms": [
+      "appease",
+      "soothe",
+      "pacify"
+    ],
+    "antonyms": [
+      "provoke",
+      "enrage",
+      "agitate"
+    ]
+  },
+  {
+    "id": "proclivity",
+    "date": "2025-05-20",
+    "word": "proclivity",
+    "meaning": "a tendency to choose or do something regularly",
+    "synonyms": [
+      "inclination",
+      "tendency",
+      "predisposition"
+    ],
+    "antonyms": [
+      "aversion",
+      "disinclination",
+      "unwillingness"
+    ]
+  },
+  {
+    "id": "puerile",
+    "date": "2025-05-20",
+    "word": "puerile",
+    "meaning": "childishly silly",
+    "synonyms": [
+      "childish",
+      "immature",
+      "juvenile"
+    ],
+    "antonyms": [
+      "mature",
+      "sensible",
+      "adult"
+    ]
+  },
+  {
+    "id": "quixotic",
+    "date": "2025-05-20",
+    "word": "quixotic",
+    "meaning": "extremely idealistic, unrealistic, impractical",
+    "synonyms": [
+      "idealistic",
+      "unrealistic",
+      "romantic"
+    ],
+    "antonyms": [
+      "practical",
+      "realistic",
+      "sensible"
+    ]
+  },
+  {
+    "id": "spendthrift",
+    "date": "2025-05-20",
+    "word": "spendthrift",
+    "meaning": "a person who spends money in an irresponsible way",
+    "synonyms": [
+      "waster",
+      "prodigal",
+      "squanderer"
+    ],
+    "antonyms": [
+      "frugal",
+      "thrifty",
+      "economical"
+    ]
+  },
+  {
+    "id": "taciturn",
+    "date": "2025-05-20",
+    "word": "taciturn",
+    "meaning": "saying little",
+    "synonyms": [
+      "reserved",
+      "silent",
+      "reticent"
+    ],
+    "antonyms": [
+      "talkative",
+      "chatty",
+      "loquacious"
+    ]
+  },
+  {
+    "id": "wary",
+    "date": "2025-05-20",
+    "word": "wary",
+    "meaning": "feeling or showing caution about possible dangers",
+    "synonyms": [
+      "cautious",
+      "alert",
+      "vigilant"
+    ],
+    "antonyms": [
+      "careless",
+      "reckless",
+      "unconcerned"
+    ]
+  }
+]
