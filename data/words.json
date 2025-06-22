@@ -477,5 +477,326 @@
       "reckless",
       "unconcerned"
     ]
+  },
+  {
+    "id": "articulate",
+    "date": "2025-06-22",
+    "word": "articulate",
+    "meaning": "speak clearly and effectively",
+    "synonyms": ["express", "voice", "communicate"],
+    "antonyms": ["mumble", "inarticulate", "unclear"]
+  },
+  {
+    "id": "analytical",
+    "date": "2025-06-22",
+    "word": "analytical",
+    "meaning": "good at breaking things down logically",
+    "synonyms": ["logical", "rational", "systematic"],
+    "antonyms": ["emotional", "illogical", "intuitive"]
+  },
+  {
+    "id": "mitigate",
+    "date": "2025-06-22",
+    "word": "mitigate",
+    "meaning": "reduce the negative impact",
+    "synonyms": ["alleviate", "ease", "soften"],
+    "antonyms": ["intensify", "worsen", "aggravate"]
+  },
+  {
+    "id": "convey",
+    "date": "2025-06-22",
+    "word": "convey",
+    "meaning": "communicate or express",
+    "synonyms": ["communicate", "transmit", "reveal"],
+    "antonyms": ["suppress", "conceal", "hide"]
+  },
+  {
+    "id": "proficient",
+    "date": "2025-06-22",
+    "word": "proficient",
+    "meaning": "skilled or competent",
+    "synonyms": ["adept", "skilled", "expert"],
+    "antonyms": ["incompetent", "unskilled", "inept"]
+  },
+  {
+    "id": "diligent",
+    "date": "2025-06-22",
+    "word": "diligent",
+    "meaning": "hardworking and careful",
+    "synonyms": ["industrious", "meticulous", "persistent"],
+    "antonyms": ["lazy", "negligent", "careless"]
+  },
+  {
+    "id": "innovative",
+    "date": "2025-06-22",
+    "word": "innovative",
+    "meaning": "using new ideas or methods",
+    "synonyms": ["creative", "inventive", "original"],
+    "antonyms": ["traditional", "conventional", "routine"]
+  },
+  {
+    "id": "versatile",
+    "date": "2025-06-22",
+    "word": "versatile",
+    "meaning": "able to adapt or be useful in many situations",
+    "synonyms": ["adaptable", "flexible", "multitalented"],
+    "antonyms": ["inflexible", "narrow", "restricted"]
+  },
+  {
+    "id": "concise",
+    "date": "2025-06-22",
+    "word": "concise",
+    "meaning": "brief but complete in expression",
+    "synonyms": ["brief", "succinct", "to the point"],
+    "antonyms": ["wordy", "verbose", "lengthy"]
+  },
+  {
+    "id": "collaborate",
+    "date": "2025-06-22",
+    "word": "collaborate",
+    "meaning": "work together effectively",
+    "synonyms": ["cooperate", "team up", "partner"],
+    "antonyms": ["compete", "oppose", "disagree"]
+  },
+  {
+    "id": "evaluate",
+    "date": "2025-06-22",
+    "word": "evaluate",
+    "meaning": "judge or assess",
+    "synonyms": ["assess", "judge", "analyze"],
+    "antonyms": ["ignore", "neglect", "overlook"]
+  },
+  {
+    "id": "implement",
+    "date": "2025-06-22",
+    "word": "implement",
+    "meaning": "put into action",
+    "synonyms": ["execute", "apply", "enforce"],
+    "antonyms": ["neglect", "abort", "cancel"]
+  },
+  {
+    "id": "strategic",
+    "date": "2025-06-22",
+    "word": "strategic",
+    "meaning": "carefully planned to achieve a goal",
+    "synonyms": ["tactical", "planned", "calculated"],
+    "antonyms": ["impulsive", "random", "unplanned"]
+  },
+  {
+    "id": "empathy",
+    "date": "2025-06-22",
+    "word": "empathy",
+    "meaning": "understanding others’ feelings",
+    "synonyms": ["compassion", "understanding", "sensitivity"],
+    "antonyms": ["apathy", "indifference", "insensitivity"]
+  },
+  {
+    "id": "prioritize",
+    "date": "2025-06-22",
+    "word": "prioritize",
+    "meaning": "decide what is most important",
+    "synonyms": ["organize", "rank", "arrange"],
+    "antonyms": ["ignore", "neglect", "overlook"]
+  },
+  {
+    "id": "resilient",
+    "date": "2025-06-22",
+    "word": "resilient",
+    "meaning": "able to recover from difficulties",
+    "synonyms": ["strong", "tough", "flexible"],
+    "antonyms": ["fragile", "weak", "vulnerable"]
+  },
+  {
+    "id": "assertive",
+    "date": "2025-06-22",
+    "word": "assertive",
+    "meaning": "confident and direct in communication",
+    "synonyms": ["confident", "firm", "decisive"],
+    "antonyms": ["passive", "hesitant", "submissive"]
+  },
+  {
+    "id": "persuasive",
+    "date": "2025-06-22",
+    "word": "persuasive",
+    "meaning": "able to convince others",
+    "synonyms": ["convincing", "influential", "compelling"],
+    "antonyms": ["unconvincing", "weak", "ineffective"]
+  },
+  {
+    "id": "adaptable",
+    "date": "2025-06-22",
+    "word": "adaptable",
+    "meaning": "flexible and able to change easily",
+    "synonyms": ["flexible", "versatile", "adjustable"],
+    "antonyms": ["rigid", "inflexible", "stubborn"]
+  },
+  {
+    "id": "ambitious",
+    "date": "2025-06-22",
+    "word": "ambitious",
+    "meaning": "having a strong desire to achieve something",
+    "synonyms": ["driven", "motivated", "determined"],
+    "antonyms": ["content", "lazy", "unmotivated"]
+  },
+  {
+    "id": "facilitate",
+    "date": "2025-06-22",
+    "word": "facilitate",
+    "meaning": "to make a process easier or smoother",
+    "synonyms": ["enable", "assist", "simplify"],
+    "antonyms": ["hinder", "block", "complicate"]
+  },
+  {
+    "id": "synthesize",
+    "date": "2025-06-22",
+    "word": "synthesize",
+    "meaning": "to combine different ideas into a unified whole",
+    "synonyms": ["combine", "integrate", "merge"],
+    "antonyms": ["separate", "divide", "disperse"]
+  },
+  {
+    "id": "delegation",
+    "date": "2025-06-22",
+    "word": "delegation",
+    "meaning": "assigning tasks to others",
+    "synonyms": ["assignment", "distribution", "designation"],
+    "antonyms": ["retention", "hoarding", "centralization"]
+  },
+  {
+    "id": "integrity",
+    "date": "2025-06-22",
+    "word": "integrity",
+    "meaning": "being honest and morally upright",
+    "synonyms": ["honesty", "uprightness", "ethics"],
+    "antonyms": ["dishonesty", "corruption", "deceit"]
+  },
+  {
+    "id": "credible",
+    "date": "2025-06-22",
+    "word": "credible",
+    "meaning": "believable or trustworthy",
+    "synonyms": ["reliable", "believable", "trustworthy"],
+    "antonyms": ["unreliable", "dubious", "incredible"]
+  },
+  {
+    "id": "revise",
+    "date": "2025-06-22",
+    "word": "revise",
+    "meaning": "to change or update something after review",
+    "synonyms": ["edit", "modify", "update"],
+    "antonyms": ["retain", "preserve", "repeat"]
+  },
+  {
+    "id": "thrive",
+    "date": "2025-06-22",
+    "word": "thrive",
+    "meaning": "to grow or develop strongly",
+    "synonyms": ["flourish", "prosper", "succeed"],
+    "antonyms": ["decline", "fail", "weaken"]
+  },
+  {
+    "id": "ambiguity",
+    "date": "2025-06-22",
+    "word": "ambiguity",
+    "meaning": "lack of clarity or certainty",
+    "synonyms": ["uncertainty", "vagueness", "obscurity"],
+    "antonyms": ["clarity", "certainty", "transparency"]
+  },
+  {
+    "id": "navigate",
+    "date": "2025-06-22",
+    "word": "navigate",
+    "meaning": "to find a way through or deal with successfully",
+    "synonyms": ["handle", "manage", "steer"],
+    "antonyms": ["mismanage", "struggle", "lose"]
+  },
+  {
+    "id": "substantiate",
+    "date": "2025-06-22",
+    "word": "substantiate",
+    "meaning": "to support with evidence or proof",
+    "synonyms": ["prove", "validate", "confirm"],
+    "antonyms": ["disprove", "refute", "invalidate"]
+  },
+  {
+    "id": "accountability",
+    "date": "2025-06-22",
+    "word": "accountability",
+    "meaning": "taking responsibility for outcomes",
+    "synonyms": ["responsibility", "answerability", "liability"],
+    "antonyms": ["irresponsibility", "blame-shifting", "denial"]
+  },
+  {
+    "id": "consensus",
+    "date": "2025-06-22",
+    "word": "consensus",
+    "meaning": "general agreement among a group",
+    "synonyms": ["agreement", "harmony", "unanimity"],
+    "antonyms": ["disagreement", "conflict", "dissent"]
+  },
+  {
+    "id": "optimize",
+    "date": "2025-06-22",
+    "word": "optimize",
+    "meaning": "make the best or most effective use of something",
+    "synonyms": ["enhance", "improve", "maximize"],
+    "antonyms": ["waste", "neglect", "degrade"]
+  },
+  {
+    "id": "streamline",
+    "date": "2025-06-22",
+    "word": "streamline",
+    "meaning": "simplify or improve efficiency",
+    "synonyms": ["simplify", "rationalize", "systematize"],
+    "antonyms": ["complicate", "overload", "confuse"]
+  },
+  {
+    "id": "viable",
+    "date": "2025-06-22",
+    "word": "viable",
+    "meaning": "capable of working successfully",
+    "synonyms": ["feasible", "practical", "workable"],
+    "antonyms": ["impractical", "unrealistic", "unfeasible"]
+  },
+  {
+    "id": "coherent",
+    "date": "2025-06-22",
+    "word": "coherent",
+    "meaning": "logically connected and consistent",
+    "synonyms": ["logical", "consistent", "clear"],
+    "antonyms": ["incoherent", "confused", "illogical"]
+  },
+  {
+    "id": "improvise",
+    "date": "2025-06-22",
+    "word": "improvise",
+    "meaning": "to act without preparation",
+    "synonyms": ["ad-lib", "invent", "spontaneously create"],
+    "antonyms": ["plan", "prepare", "rehearse"]
+  },
+  {
+    "id": "rectify",
+    "date": "2025-06-22",
+    "word": "rectify",
+    "meaning": "to correct a mistake",
+    "synonyms": ["correct", "amend", "fix"],
+    "antonyms": ["worsen", "damage", "ignore"]
+  },
+  {
+    "id": "comply",
+    "date": "2025-06-22",
+    "word": "comply",
+    "meaning": "to follow rules or guidelines",
+    "synonyms": ["follow", "obey", "adhere"],
+    "antonyms": ["defy", "resist", "disobey"]
+  },
+  {
+    "id": "catalyst",
+    "date": "2025-06-22",
+    "word": "catalyst",
+    "meaning": "something that causes change",
+    "synonyms": ["spark", "trigger", "stimulus"],
+    "antonyms": ["blocker", "inhibitor", "hindrance"]
   }
+
 ]
