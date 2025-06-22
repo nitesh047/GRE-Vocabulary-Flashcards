@@ -797,6 +797,246 @@
     "meaning": "something that causes change",
     "synonyms": ["spark", "trigger", "stimulus"],
     "antonyms": ["blocker", "inhibitor", "hindrance"]
+  },
+  {
+    "id": "adulterate",
+    "date": "2025-05-21",
+    "word": "adulterate",
+    "meaning": "render poorer in quality by adding another substance",
+    "synonyms": ["contaminate", "debase", "dilute"],
+    "antonyms": ["purify", "refine", "cleanse"]
+  },
+  {
+    "id": "advocate",
+    "date": "2025-05-21",
+    "word": "advocate",
+    "meaning": "publicly recommend or support",
+    "synonyms": ["support", "champion", "promote"],
+    "antonyms": ["oppose", "criticize", "protest"]
+  },
+  {
+    "id": "aggrandize",
+    "date": "2025-05-21",
+    "word": "aggrandize",
+    "meaning": "increase power, status, reputation of someone",
+    "synonyms": ["elevate", "exalt", "magnify"],
+    "antonyms": ["belittle", "diminish", "degrade"]
+  },
+  {
+    "id": "alacrity",
+    "date": "2025-05-21",
+    "word": "alacrity",
+    "meaning": "brisk and cheerful readiness",
+    "synonyms": ["eagerness", "enthusiasm", "readiness"],
+    "antonyms": ["reluctance", "apathy", "indifference"]
+  },
+  {
+    "id": "ambivalent",
+    "date": "2025-05-21",
+    "word": "ambivalent",
+    "meaning": "having mixed feelings or contradictory ideas",
+    "synonyms": ["uncertain", "conflicted", "torn"],
+    "antonyms": ["decisive", "certain", "clear-cut"]
+  },
+  {
+    "id": "ameliorate",
+    "date": "2025-05-21",
+    "word": "ameliorate",
+    "meaning": "make something bad better",
+    "synonyms": ["improve", "enhance", "mitigate"],
+    "antonyms": ["worsen", "aggravate", "exacerbate"]
+  },
+  {
+    "id": "amenable",
+    "date": "2025-05-21",
+    "word": "amenable",
+    "meaning": "open to suggestions, easily persuaded, susceptible",
+    "synonyms": ["agreeable", "compliant", "receptive"],
+    "antonyms": ["inflexible", "resistant", "stubborn"]
+  },
+  {
+    "id": "anachronistic",
+    "date": "2025-05-21",
+    "word": "anachronistic",
+    "meaning": "belonging to a period other than that being portrayed, conspicuously old-fashioned",
+    "synonyms": ["outdated", "archaic", "obsolete"],
+    "antonyms": ["timely", "modern", "contemporary"]
+  },
+  {
+    "id": "audacious",
+    "date": "2025-05-21",
+    "word": "audacious",
+    "meaning": "willingness to take surprisingly bold risks, showing impudent lack of respect",
+    "synonyms": ["bold", "daring", "intrepid"],
+    "antonyms": ["timid", "meek", "reserved"]
+  },
+  {
+    "id": "avaricious",
+    "date": "2025-05-21",
+    "word": "avaricious",
+    "meaning": "showing extreme greed for wealth or material gain",
+    "synonyms": ["greedy", "covetous", "materialistic"],
+    "antonyms": ["generous", "selfless", "altruistic"]
+  },
+  {
+    "id": "banal",
+    "date": "2025-05-21",
+    "word": "banal",
+    "meaning": "lacking in originality as to be obvious and boring",
+    "synonyms": ["trite", "hackneyed", "cliched"],
+    "antonyms": ["original", "fresh", "innovative"]
+  },
+  {
+    "id": "benign",
+    "date": "2025-05-21",
+    "word": "benign",
+    "meaning": "gentle and kind, not harmful to the environment",
+    "synonyms": ["kind", "gentle", "harmless"],
+    "antonyms": ["malignant", "harmful", "hostile"]
+  },
+  {
+    "id": "brazen",
+    "date": "2025-05-21",
+    "word": "brazen",
+    "meaning": "bold and without shame",
+    "synonyms": ["shameless", "impudent", "bold"],
+    "antonyms": ["modest", "shy", "meek"]
+  },
+  {
+    "id": "calumny",
+    "date": "2025-05-21",
+    "word": "calumny",
+    "meaning": "false and slanderous statement about someone",
+    "synonyms": ["slander", "defamation", "libel"],
+    "antonyms": ["praise", "compliment", "flattery"]
+  },
+  {
+    "id": "candid",
+    "date": "2025-05-21",
+    "word": "candid",
+    "meaning": "truthful and straightforward",
+    "synonyms": ["honest", "frank", "forthright"],
+    "antonyms": ["deceitful", "dishonest", "evasive"]
+  },
+  {
+    "id": "castigate",
+    "date": "2025-05-21",
+    "word": "castigate",
+    "meaning": "reprimand severely",
+    "synonyms": ["chastise", "rebuke", "reprimand"],
+    "antonyms": ["praise", "commend", "laud"]
+  },
+  {
+    "id": "caustic",
+    "date": "2025-05-21",
+    "word": "caustic",
+    "meaning": "sarcastic in a bitter way, chemical",
+    "synonyms": ["acerbic", "biting", "scathing"],
+    "antonyms": ["gentle", "mild", "soothing"]
+  },
+  {
+    "id": "construe",
+    "date": "2025-05-21",
+    "word": "construe",
+    "meaning": "interpret in a particular way",
+    "synonyms": ["interpret", "decipher", "analyze"],
+    "antonyms": ["misinterpret", "confuse", "obscure"]
+  },
+  {
+    "id": "contrite",
+    "date": "2025-05-21",
+    "word": "contrite",
+    "meaning": "feeling or expressing remorse that one has done wrong",
+    "synonyms": ["remorseful", "repentant", "penitent"],
+    "antonyms": ["unrepentant", "shameless", "defiant"]
+  },
+  {
+    "id": "convoluted",
+    "date": "2025-05-21",
+    "word": "convoluted",
+    "meaning": "extremely complex and difficult to follow and twisted",
+    "synonyms": ["complex", "intricate", "labyrinthine"],
+    "antonyms": ["simple", "straightforward", "clear"]
+  },
+  {
+    "id": "covet",
+    "date": "2025-05-21",
+    "word": "covet",
+    "meaning": "yearn to possess something belonging to another",
+    "synonyms": ["desire", "crave", "yearn for"],
+    "antonyms": ["disdain", "reject", "spurn"]
+  },
+  {
+    "id": "craven",
+    "date": "2025-05-21",
+    "word": "craven",
+    "meaning": "lacking in courage, cowardly",
+    "synonyms": ["cowardly", "timid", "fearful"],
+    "antonyms": ["brave", "courageous", "valiant"]
+  },
+  {
+    "id": "decorum",
+    "date": "2025-05-21",
+    "word": "decorum",
+    "meaning": "behavior in keeping with good taste and propriety",
+    "synonyms": ["etiquette", "propriety", "politeness"],
+    "antonyms": ["impropriety", "rudeness", "indecency"]
+  },
+  {
+    "id": "deft",
+    "date": "2025-05-21",
+    "word": "deft",
+    "meaning": "demonstrating skill and cleverness",
+    "synonyms": ["skillful", "adept", "nimble"],
+    "antonyms": ["clumsy", "awkward", "inept"]
+  },
+  {
+    "id": "demur",
+    "date": "2025-05-21",
+    "word": "demur",
+    "meaning": "raise objections or show reluctance",
+    "synonyms": ["object", "protest", "hesitate"],
+    "antonyms": ["accept", "agree", "approve"]
+  },
+  {
+    "id": "derivative",
+    "date": "2025-05-21",
+    "word": "derivative",
+    "meaning": "imitative of the work of another",
+    "synonyms": ["unoriginal", "copied", "imitative"],
+    "antonyms": ["innovative", "original", "inventive"]
+  },
+  {
+    "id": "desiccate",
+    "date": "2025-05-21",
+    "word": "desiccate",
+    "meaning": "cause to become completely dry",
+    "synonyms": ["dry", "dehydrate", "parch"],
+    "antonyms": ["moisten", "hydrate", "dampen"]
+  },
+  {
+    "id": "diatribe",
+    "date": "2025-05-21",
+    "word": "diatribe",
+    "meaning": "a forceful and bitter verbal attack",
+    "synonyms": ["tirade", "rant", "harangue"],
+    "antonyms": ["praise", "commendation", "eulogy"]
+  },
+  {
+    "id": "incredulous",
+    "date": "2025-05-21",
+    "word": "incredulous",
+    "meaning": "unwilling or unable to believe something",
+    "synonyms": ["skeptical", "doubtful", "unbelieving"],
+    "antonyms": ["trusting", "credulous", "believing"]
+  },
+  {
+    "id": "ingenuous",
+    "date": "2025-05-21",
+    "word": "ingenuous",
+    "meaning": "innocent, naive or unsuspecting",
+    "synonyms": ["naive", "innocent", "guileless"],
+    "antonyms": ["cunning", "deceitful", "sly"]
   }
 
-]
+  ]
