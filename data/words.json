@@ -1037,6 +1037,165 @@
     "meaning": "innocent, naive or unsuspecting",
     "synonyms": ["naive", "innocent", "guileless"],
     "antonyms": ["cunning", "deceitful", "sly"]
+  },
+  {
+    "id": "abate",
+    "date": "2025-06-23",
+    "word": "abate",
+    "meaning": "to reduce in degree or intensity",
+    "synonyms": ["diminish", "lessen", "subside"],
+    "antonyms": ["intensify", "increase", "amplify"]
+  },
+  {
+    "id": "adulterate",
+    "date": "2025-06-23",
+    "word": "adulterate",
+    "meaning": "to make something poorer in quality by adding another substance",
+    "synonyms": ["contaminate", "dilute", "debase"],
+    "antonyms": ["purify", "refine", "cleanse"]
+  },
+  {
+    "id": "alacrity",
+    "date": "2025-06-23",
+    "word": "alacrity",
+    "meaning": "brisk and cheerful readiness",
+    "synonyms": ["eagerness", "enthusiasm", "willingness"],
+    "antonyms": ["reluctance", "apathy", "hesitation"]
+  },
+  {
+    "id": "anachronism",
+    "date": "2025-06-23",
+    "word": "anachronism",
+    "meaning": "something out of its proper time period",
+    "synonyms": ["misplacement", "outdated element", "chronological error"],
+    "antonyms": ["timely", "contemporary", "modern"]
+  },
+  {
+    "id": "approbation",
+    "date": "2025-06-23",
+    "word": "approbation",
+    "meaning": "approval or praise",
+    "synonyms": ["endorsement", "commendation", "recognition"],
+    "antonyms": ["disapproval", "condemnation", "criticism"]
+  },
+  {
+    "id": "arduous",
+    "date": "2025-06-23",
+    "word": "arduous",
+    "meaning": "difficult and tiring",
+    "synonyms": ["challenging", "strenuous", "demanding"],
+    "antonyms": ["easy", "effortless", "simple"]
+  },
+  {
+    "id": "assuage",
+    "date": "2025-06-23",
+    "word": "assuage",
+    "meaning": "to make something less severe",
+    "synonyms": ["relieve", "ease", "soothe"],
+    "antonyms": ["aggravate", "intensify", "exacerbate"]
+  },
+  {
+    "id": "audacious",
+    "date": "2025-06-23",
+    "word": "audacious",
+    "meaning": "showing boldness or lack of respect",
+    "synonyms": ["bold", "daring", "fearless"],
+    "antonyms": ["timid", "cautious", "modest"]
+  },
+  {
+    "id": "banal",
+    "date": "2025-06-23",
+    "word": "banal",
+    "meaning": "so lacking in originality as to be obvious and boring",
+    "synonyms": ["trite", "clichéd", "commonplace"],
+    "antonyms": ["original", "fresh", "innovative"]
+  },
+  {
+    "id": "capricious",
+    "date": "2025-06-23",
+    "word": "capricious",
+    "meaning": "given to sudden and unaccountable changes of mood or behavior",
+    "synonyms": ["impulsive", "unpredictable", "whimsical"],
+    "antonyms": ["consistent", "reliable", "stable"]
+  },
+  {
+    "id": "caustic",
+    "date": "2025-06-23",
+    "word": "caustic",
+    "meaning": "able to burn or corrode; severely critical",
+    "synonyms": ["corrosive", "scathing", "sarcastic"],
+    "antonyms": ["gentle", "mild", "kind"]
+  },
+  {
+    "id": "convoluted",
+    "date": "2025-06-23",
+    "word": "convoluted",
+    "meaning": "extremely complex and difficult to follow",
+    "synonyms": ["intricate", "complicated", "twisted"],
+    "antonyms": ["simple", "clear", "straightforward"]
+  },
+  {
+    "id": "disparate",
+    "date": "2025-06-23",
+    "word": "disparate",
+    "meaning": "essentially different in kind; not allowing comparison",
+    "synonyms": ["divergent", "distinct", "incompatible"],
+    "antonyms": ["similar", "alike", "homogeneous"]
+  },
+  {
+    "id": "enervate",
+    "date": "2025-06-23",
+    "word": "enervate",
+    "meaning": "to weaken or drain of energy",
+    "synonyms": ["weaken", "exhaust", "debilitate"],
+    "antonyms": ["energize", "strengthen", "invigorate"]
+  },
+  {
+    "id": "ephemeral",
+    "date": "2025-06-23",
+    "word": "ephemeral",
+    "meaning": "lasting a very short time",
+    "synonyms": ["transient", "fleeting", "short-lived"],
+    "antonyms": ["permanent", "lasting", "enduring"]
+  },
+  {
+    "id": "equivocal",
+    "date": "2025-06-23",
+    "word": "equivocal",
+    "meaning": "open to more than one interpretation; ambiguous",
+    "synonyms": ["ambiguous", "unclear", "vague"],
+    "antonyms": ["clear", "definite", "explicit"]
+  },
+  {
+    "id": "erudite",
+    "date": "2025-06-23",
+    "word": "erudite",
+    "meaning": "having or showing great knowledge",
+    "synonyms": ["learned", "scholarly", "intellectual"],
+    "antonyms": ["ignorant", "uneducated", "ill-informed"]
+  },
+  {
+    "id": "fervid",
+    "date": "2025-06-23",
+    "word": "fervid",
+    "meaning": "intensely enthusiastic or passionate",
+    "synonyms": ["ardent", "zealous", "passionate"],
+    "antonyms": ["indifferent", "unenthusiastic", "apathetic"]
+  },
+  {
+    "id": "laconic",
+    "date": "2025-06-23",
+    "word": "laconic",
+    "meaning": "using very few words",
+    "synonyms": ["brief", "concise", "terse"],
+    "antonyms": ["verbose", "wordy", "loquacious"]
+  },
+  {
+    "id": "loquacious",
+    "date": "2025-06-23",
+    "word": "loquacious",
+    "meaning": "tending to talk a great deal; talkative",
+    "synonyms": ["talkative", "chatty", "garrulous"],
+    "antonyms": ["quiet", "reserved", "taciturn"]
   }
-
   ]
